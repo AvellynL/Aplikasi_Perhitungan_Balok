@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ulangan1</string>
+    <string name="menghitung_balok">Menghitung Balok</string>
+    <string name="keliling_btn_label">keliling</string>
+    <string name="luas_btn_label">Luas</string>
+    <string name="volume_btn_label">Volume</string>
+</resources>
